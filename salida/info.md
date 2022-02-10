@@ -1,2 +1,2 @@
 #Informacion 
-Esta carpeta contiene el producto final de escribir data en un archivo .txt generado
+Esta carpeta contiene el producto final de escribir data en un archivo .txt generado de forma calculada
